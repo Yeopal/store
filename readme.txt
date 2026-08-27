@@ -1,1 +1,1 @@
-Main Conflict Test
+Resolved: Main and Feature Conflict Test
