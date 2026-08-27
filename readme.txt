@@ -1,2 +1,1 @@
-Hello Git
-Nice to meet you
+Feature Conflict Test
