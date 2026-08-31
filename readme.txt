@@ -1,1 +1,1 @@
-Resolved: Main and Feature Conflict Test
+이건 꼭 읽어보셔야 합니다.
